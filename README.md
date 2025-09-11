@@ -1,7 +1,10 @@
-# 👋 Olá, eu sou o LUIZ  
+
+![Minecraft GIF](https://media.tenor.com/3oIn96D65f0AAAAi/minecraft-minecraft-meme.gif)
+
+# 👋 Olá, eu sou [Seu Nome]  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Desenvolvedor em formação, com foco em **, Java e desenvolvimento web**  
+💻 Desenvolvedor em formação, com foco em **C#, Java e desenvolvimento web**  
 📊 Interesse em **sistemas de gestão**, **bancos de dados** e **aplicações desktop/web**  
 
 ---
