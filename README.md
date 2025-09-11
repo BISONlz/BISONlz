@@ -1,7 +1,6 @@
 
-![Minecraft GIF](https://media.tenor.com/3oIn96D65f0AAAAi/minecraft-minecraft-meme.gif)
-
-# 👋 Olá, eu sou [Seu Nome]  
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+# 👋 Olá, eu sou o LUIZ
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Desenvolvedor em formação, com foco em **C#, Java e desenvolvimento web**  
@@ -17,7 +16,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
