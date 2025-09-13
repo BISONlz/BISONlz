@@ -29,10 +29,6 @@
 
 ---
 
-## 📫 Como me encontrar  
-- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/usuario)  
-- 📧 E-mail: seuemail@exemplo.com  
 
----
 
 ⭐ Sempre em busca de aprender mais e aplicar meus conhecimentos em projetos reais!
