@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou o LUIZ
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Desenvolvedor em formação, com foco em **C#, Java e desenvolvimento web**  
+💻 Desenvolvedor em formação, com foco em Java e desenvolvimento web**  
 📊 Interesse em **sistemas de gestão**, **bancos de dados** e **aplicações desktop/web**  
 
 ---
